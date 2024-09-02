@@ -9,7 +9,7 @@ tegnologias Backend:
 - Identity.EntityFrameworkCore
 - EntityFrameworkCore.Tools 
 - JWT
-- - Authentication.JwtBearer
+- Authentication.JwtBearer
   
 Fronend con: 
 -React 
