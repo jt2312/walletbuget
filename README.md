@@ -1,5 +1,5 @@
 # Budget.io 
-Proyecto final clonado a mi repo.
+Proyecto final grupal clonado a mi repo.
 
 Esta aplicacion facilita tu gesiton de finanzas personales.
 
