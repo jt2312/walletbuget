@@ -6,10 +6,10 @@ Esta aplicacion facilita tu gesiton de finanzas personales.
 tegnologias Backend: 
 - ASPNETCore 7.0
 - SQL Server
-- Identity.EntityFrameworkCore
-- EntityFrameworkCore.Tools 
+- Identity
+- EntityFrameworkCore
 - JWT
   
-Fronend con: 
+Frontend con: 
 - React
 - Bootstrap
